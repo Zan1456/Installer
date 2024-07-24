@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -154,16 +154,16 @@
     <value>Frissítés</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Verzió: </value>
+    <value>Verzió:</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Ödvözlöm</value>
+    <value>Üdvözlöm</value>
   </data>
   <data name="welcomeDescription" xml:space="preserve">
     <value>A beállítás során a Rectify11 számítógépre történő telepítéséhez szükséges különböző lépéseken kell végrehajtani a következetesebb élmény érdekében. A folytatáshoz válassza ki a kívánt lehetőséget.</value>
   </data>
   <data name="installChoiceDescription" xml:space="preserve">
-    <value>Kiválaszthatod , hogy mi legyen  feljavítva.</value>
+    <value>Kiválaszthatod , hogy mi legyen feljavítva.</value>
   </data>
   <data name="installChoiceTitle" xml:space="preserve">
     <value>Válassza ki mit szeretne telepíteni</value>
@@ -240,8 +240,7 @@
   <data name="installWinver" xml:space="preserve">
     <value>Telepítse a Winver-t</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="r11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="r11" type="System.Resources.ResXFileRef, System.Windows.Forms" xml:space="preserve">
     <value>..\r11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="summaryHeader" xml:space="preserve">
@@ -347,10 +346,10 @@
     <value>Biztosan eltávolítja a Rectify11 programot?</value>
   </data>
   <data name="rtInstallFailPart1" xml:space="preserve">
-    <value>Telepítése a </value>
+    <value>Telepítése a</value>
   </data>
   <data name="rtInstallFailPart2" xml:space="preserve">
-    <value> nem sikerült. Kézzel kell telepítenie.</value>
+    <value>nem sikerült. Kézzel kell telepítenie.</value>
   </data>
   <data name="rtInstallFailInstruc" xml:space="preserve">
     <value>A környezet telepítés nem sikerült</value>
@@ -440,10 +439,10 @@
     <value>A Rectify11 telepítése befejeződött. Kérjük, indítsa újra a számítógépet a módosítások végrehajtásához.</value>
   </data>
   <data name="r11InstallErrorPart1" xml:space="preserve">
-    <value>A Rectify11 telepítése nem sikerült. kérlek, küldd </value>
+    <value>A Rectify11 telepítése nem sikerült. kérlek, küldd</value>
   </data>
   <data name="r11InstallErrorPart2" xml:space="preserve">
-    <value> és nyissa meg a problémát a GitHubon, vagy küldje el a Rectify11 Discord kiszolgálóra segítségért.</value>
+    <value>és nyissa meg a problémát a GitHubon, vagy küldje el a Rectify11 Discord kiszolgálóra segítségért.</value>
   </data>
   <data name="r11UninstallThanks" xml:space="preserve">
     <value>Köszönjük, hogy a Rectify11-et használja</value>
@@ -452,6 +451,6 @@
     <value>Az eltávolítás néhány percen belül megtörténik.</value>
   </data>
   <data name="tooNewBuild" xml:space="preserve">
-	<value>You are running a build of Windows that is too new to be fully supported by Rectify11.</value>
+    <value>A Windows olyan verzióját használod, amely túl új ahhoz, hogy a Rectify11 teljes mértékben támogassa.</value>
   </data>
 </root>
